@@ -1,0 +1,47 @@
+body {
+  height: 100vh;
+  background-image: url("https://cdn.discordapp.com/attachments/966491171142631444/1067921481415266435/Smash_4k_inspirational_background_4f19137a-92f8-44a8-a518-c06c8f641872.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.editorWrap {
+  max-width: 600px;
+  border-radius: 10px;
+  outline: 5px solid #000;
+  margin: auto;
+}
+
+.previewWrap {
+  opacity: .8;
+  max-width: 600px;
+  background-color: #0ff;
+  border-radius: 10px;
+  outline: 5px solid #000;
+  margin: 1.125rem auto;
+}
+
+.toolbar {
+  color: #000;
+  background-color: #414af5;
+  border: 1px solid #1d2f2f;
+  align-items: center;
+  padding: .3rem;
+  font-family: Russo One;
+  font-size: 1.4rem;
+  display: flex;
+  box-shadow: 1px 1px 10px 2px #3a5f5f;
+}
+
+textarea {
+  width: 99%;
+  min-height: 250px;
+  resize: vertical;
+  background-color: #0ff;
+  border-radius: 10px;
+  padding-left: 5px;
+  font-size: .875rem;
+}
+
+/*# sourceMappingURL=index.b2d9cf43.css.map */
